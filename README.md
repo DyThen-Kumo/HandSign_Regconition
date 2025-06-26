@@ -8,7 +8,8 @@
 * Năm học: Học kỳ 6 ( Học kỳ 2 - 2024-2025)
 
 ### Giảng viên
-* TS.Nguyễn Vinh Tiệp
+* Thầy Nguyễn Vinh Tiệp
+* Thầy Trần Gia Nghĩa
 
 ### Thành viên nhóm
 
