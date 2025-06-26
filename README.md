@@ -26,8 +26,8 @@ Trong lĩnh vực thị giác máy tính, các mô hình học sâu hiện đạ
 ## Bài toán
 Xây dựng một hệ thống phân loại cử chỉ tay tĩnh trong ngôn ngữ ký hiệu Mỹ (ASL), sử dụng hình ảnh RGB đầu vào, với yêu cầu chỉ nhận diện các ảnh có chứa bàn tay. Hệ thống cần phân loại ảnh đầu vào thành một trong 28 lớp ASL, bao gồm 26 chữ cái (A–Z) và hai ký hiệu chức năng (del, space). Các ảnh không có bàn tay sẽ bị loại bỏ khỏi bài toán nhằm đảm bảo tính nhất quán và tính khả thi trong việc nhận dạng bằng hình ảnh cử chỉ tay.
 
-## Dataset, Kết quả
-Chi tiết trong file "report.pdf".
+## Demo
+[ASL Getsure Demo](https://www.youtube.com/watch?v=AU8EJxgciBo)
 
 ## Reference
 [1] Diane Brentari. A Prosodic Model of Sign Language Phonology. MIT Press, 1998.
