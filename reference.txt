@@ -1,0 +1,5 @@
+https://www.researchgate.net/publication/391274163_American_Sign_Language_Gesture_Recognition_using_Custom_CNN_MediaPipe_and_Transfer_Learning_Approaches
+
+https://www.researchgate.net/publication/387452173_A_Transfer_Learning_Based_Approach_For_American_Sign_Language_Recognition_Using_Deep_Convolutional_Neural_Network
+
+https://arxiv.org/abs/2305.05296
