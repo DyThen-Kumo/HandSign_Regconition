@@ -1,0 +1,5 @@
+# Extract feature + Train model:
+https://drive.google.com/drive/folders/1kPuppMG657LLByyCJhtGhib-eIaLhh1Q?usp=sharing
+
+# Code demo:
+https://github.com/DyThen-Kumo/HandSign_Regconition
